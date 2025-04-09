@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a lecturer at Wuhan University of Science and Technology.
+I am currently a lecturer at the [School of Computer Science and Technology, Wuhan University of Science and Technology](https://jsjkx.wust.edu.cn/) (WUST).
 
-Since 2013, I have been studying at the School of Computer Science, Wuhan University, where I earned my Bachelor's and Ph.D. degrees, supervied by Professor Tieyun Qian (钱铁云). 
+Since 2013, I have been studying at the [School of Computer Science, Wuhan University](https://cs.whu.edu.cn/index.htm) (WHU), where I earned my Bachelor's and Ph.D. degrees, supervied by Professor [Tieyun Qian](https://nlpgm.github.io/people.html) (钱铁云). 
 
 My research interests focus on recommender systems, with an emphasis on sequential recommendation, Point-of-Interest (POI) recommendation, and generative recommendation. I have published 10+ papers at well-known conferences and journals, such as AAAI, EMNLP, ACM TOIS, and IEEE TKDE. In the future, I aim to explore the potential applications of large language models to the POI recommendation or urban computing. 
 
