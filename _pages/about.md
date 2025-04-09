@@ -19,9 +19,9 @@ Publications
 ======
 * **Adaption-of-thought: Learning question difficulty improves large language models for reasoning**.
 
-  Mayi Xu, Yongqi Li, **Ke Sun**, and Tieyun Qian. E
+  Mayi Xu, Yongqi Li, **Ke Sun**, and Tieyun Qian.
 
-  MNLP2024 (CCF-B)
+  EMNLP2024 (CCF-B)
 
 * **City Matters! A Dual-Target Cross-City Sequential POI Recommendation Model**.
 
