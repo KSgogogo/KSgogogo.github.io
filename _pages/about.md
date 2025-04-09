@@ -110,6 +110,6 @@ Awards
 * Ruan Liping Scholarship, Wuhan University, 2020
 * Academic Scholarship, Wuhan University, 2020
 
-Professional services
+Professional Services
 ======
 * Reviewer: ACL2025, IEEE TKDE, Journal of Supercomputing.
