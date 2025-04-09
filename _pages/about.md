@@ -11,7 +11,9 @@ I am currently a lecturer at Wuhan University of Science and Technology.
 
 Since 2013, I have been studying at the School of Computer Science, Wuhan University, where I earned my Bachelor's and Ph.D. degrees, supervied by Professor Tieyun Qian (钱铁云). 
 
-My research interest focus on recommender systems, with an emphasis on sequential recommendation, Point-of-Interest (POI) recommendation, and generative recommendation. I have published 10+ papers at well-known conferences and journals, such as AAAI, EMNLP, ACM TOIS, and IEEE TKDE. In the future, I aim to explore the potential of applying large language models to the POI recommendation or urban computing.
+My research interests focus on recommender systems, with an emphasis on sequential recommendation, Point-of-Interest (POI) recommendation, and generative recommendation. I have published 10+ papers at well-known conferences and journals, such as AAAI, EMNLP, ACM TOIS, and IEEE TKDE. In the future, I aim to explore the potential applications of large language models to the POI recommendation or urban computing. 
+
+ If you are interested in my study, please feel free to email me at sunke@wust.edu.cn.
 
 A data-driven personal website
 ======
