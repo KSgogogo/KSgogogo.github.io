@@ -13,11 +13,12 @@ Since 2013, I have been studying at the [School of Computer Science, Wuhan Unive
 
 My research interests focus on recommender systems, with an emphasis on sequential recommendation, Point-of-Interest (POI) recommendation, and generative recommendation. I have published 10+ papers at well-known conferences and journals, such as AAAI, EMNLP, ACM TOIS, and IEEE TKDE. In the future, I aim to explore the potential applications of large language models to the POI recommendation or urban computing. 
 
- If you are interested in my study, please feel free to email me at sunke@wust.edu.cn.
+ If you are interested in my study, please feel free to email me at **sunke@wust.edu.cn**.
 
 Publications
 ======
-* Adaption-of-thought: Learning question difficulty improves large language models for reasoning. Mayi Xu, Yongqi Li, **Ke Sun**, and Tieyun Qian. EMNLP2024 (CCF-B)
+* **Adaption-of-thought: Learning question difficulty improves large language models for reasoning**.
+  Mayi Xu, Yongqi Li, **Ke Sun**, and Tieyun Qian. EMNLP2024 (CCF-B)
 
 * City Matters! A Dual-Target Cross-City Sequential POI Recommendation Model. **Ke Sun**, Chenliang Li, and Tieyun Qian. TOIS2024 (CCF-A)
 
