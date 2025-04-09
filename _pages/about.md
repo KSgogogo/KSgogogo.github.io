@@ -15,13 +15,23 @@ My research interests focus on recommender systems, with an emphasis on sequenti
 
  If you are interested in my study, please feel free to email me at sunke@wust.edu.cn.
 
-A data-driven personal website
+Publications
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+*Adaption-of-thought: Learning question difficulty improves large language models for reasoning. Mayi Xu, Yongqi Li, **Ke Sun**, and Tieyun Qian. EMNLP2024 (CCF-B)
+*City Matters! A Dual-Target Cross-City Sequential POI Recommendation Model. **Ke Sun**, Chenliang Li, and Tieyun Qian. TOIS2024 (CCF-A)
+*Dynamic Open-book Prompt for Conversational Recommender System. Xuan Ma, Tieyun Qian, and **Ke Sun**. EMNLP2023 Findings (CCF-B)
+*Pre-training across different cities for next poi recommendation. **Ke Sun**, Tieyun Qian, Chenliang Li, Xuan Ma, Qing Li, Ming Zhong, Yuanyuan Zhu, and Mengchi Liu. TWEB2023 (CCF-B)
+*Cold-Start Multi-hop Reasoning by Hierarchical Guidance and Self-verification. Mayi Xu, **Ke Sun**, Yongqi Li, and Tieyun Qian. ECML2023 (CCF-B)
+*Towards more effective encoders in pre-training for sequential recommendation. **Ke Sun**, Tieyun Qian, Ming Zhong, and Xuhui Li. WWWJ2023 (CCF-B)
+*Intent disentanglement and feature self-supervision for novel recommendation. Tieyun Qian, Yile Liang, Qing Li, Xuan Ma, **Ke Sun**, Zhiyong Peng. TKDE2022 (CCF-A)
+*Enhancing graph convolution network for novel recommendation. Xuan Ma, Tieyun Qian, Yile Liang, **Ke Sun**, Hang Yun, and Mi Zhang. DASFAA2022 (CCF-B)
+*Context-aware seq2seq translation model for sequential recommendation. **Ke Sun**, Tieyun Qian, Xu Chen, Ming Zhong. INS2021 (CCF-B)
+*Where to go next: Modeling long-and short-term user preferences for point-of-interest recommendation. **Ke Sun**, Tieyun Qian, Tong Chen, Yile Liang, Quoc Viet Hung Nguyen, and Hongzhi Yin. AAAI2020 (CCF-A)
+*What Can History Tell Us? Identifying Relevant Sessions for Next-Item Recommendation. **Ke Sun**, Tieyun Qian, Hongzhi Yin, Tong Chen, Yiqi Chen, and Ling Chen. CIKM2019 (CCF-B)
+*"Bridge" Enhanced Signed Directed Network Embedding. Yiqi Chen, Tieyun Qian, Huan Liu, and **Ke Sun**. CIKM2018 (CCF-B)
+*Exploiting user and item attributes for sequential recommendation. **Ke Sun** and Tieyun qian. ICONIP2018 (CCF-C)
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+Educations
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
