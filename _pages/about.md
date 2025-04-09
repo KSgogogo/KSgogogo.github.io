@@ -29,9 +29,17 @@ Publications
 
   TOIS2024 (CCF-A)
 
-* **Dynamic Open-book Prompt for Conversational Recommender System**. Xuan Ma, Tieyun Qian, and **Ke Sun**. EMNLP2023 Findings (CCF-B)
+* **Dynamic Open-book Prompt for Conversational Recommender System**.
 
-* **Pre-training across different cities for next poi recommendation**. **Ke Sun**, Tieyun Qian, Chenliang Li, Xuan Ma, Qing Li, Ming Zhong, Yuanyuan Zhu, and Mengchi Liu. TWEB2023 (CCF-B)
+  Xuan Ma, Tieyun Qian, and **Ke Sun**.
+
+  EMNLP2023 Findings (CCF-B)
+
+* **Pre-training across different cities for next poi recommendation**.
+
+  **Ke Sun**, Tieyun Qian, Chenliang Li, Xuan Ma, Qing Li, Ming Zhong, Yuanyuan Zhu, and Mengchi Liu.
+
+  TWEB2023 (CCF-B)
 
 * **Cold-Start Multi-hop Reasoning by Hierarchical Guidance and Self-verification**.
 
