@@ -89,8 +89,8 @@ Publications
 
 Educations
 ======
-* 2020.09 - 2024.07, PhD, Computer Software and Theory, School of Computer Science, Wuhan University, Wuhan, China. Advised by Tieyun Qian.
-* 2017.09 - 2020.07, Master, Computer Software and Theory, School of Computer Science, Wuhan University, Wuhan, China. Advised by Tieyun Qian.
+* 2020.09 - 2024.07, PhD, Computer Software and Theory, School of Computer Science, Wuhan University, Wuhan, China. Advised by [Tieyun Qian](https://nlpgm.github.io/people.html).
+* 2017.09 - 2020.07, Master, Computer Software and Theory, School of Computer Science, Wuhan University, Wuhan, China. Advised by [Tieyun Qian](https://nlpgm.github.io/people.html).
 * 2013.09 - 2017.07, Undergraduate, Internet of Things, School of Computer Science, Wuhan University, Wuhan, China.
 
 Awards
