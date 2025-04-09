@@ -51,6 +51,12 @@ Educations
 
 Awards
 ======
+* Scholarship of Doctoral Academic Forum, Wuhan University, 2023
+* Academic Scholarship, Wuhan University, 2023
+* Outstanding Graduate Student, Wuhan University, 2022
+* Longfor Scholarship, Wuhan University, 2022
+* Ruan Liping Scholarship, Wuhan University, 2020
+* Academic Scholarship, Wuhan University, 2020
 
 Professional services
 ======
