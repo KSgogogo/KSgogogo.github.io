@@ -9,7 +9,9 @@ redirect_from:
 
 I am currently a lecturer at Wuhan University of Science and Technology.
 
-I obtained my bachelor’s and doctoral degrees from the School of Computer Science, Wuhan University. During my master’s and doctoral studies, I was guided by Tieyun Qian (钱铁云).
+Prior to this, I obtained my bachelor’s degree in 2017 and doctoral degree in 2024 from the School of Computer Science, Wuhan University. During my doctoral studies, I was guided by Professor Tieyun Qian (钱铁云).
+
+My research interest focus on recommender systems, with an emphasis on sequential recommendation, Point-of-Interest (POI) recommendation, and generative recommendation. I have published 10+ papers at well-known conferences and journals, such as AAAI, EMNLP, ACM TOIS, and IEEE TKDE.
 
 A data-driven personal website
 ======
