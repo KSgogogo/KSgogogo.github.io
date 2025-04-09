@@ -18,6 +18,7 @@ My research interests focus on recommender systems, with an emphasis on sequenti
 Publications
 ======
 * **Adaption-of-thought: Learning question difficulty improves large language models for reasoning**.
+
   Mayi Xu, Yongqi Li, **Ke Sun**, and Tieyun Qian. EMNLP2024 (CCF-B)
 
 * City Matters! A Dual-Target Cross-City Sequential POI Recommendation Model. **Ke Sun**, Chenliang Li, and Tieyun Qian. TOIS2024 (CCF-A)
