@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a lecture at Wuhan University of Science and Technology.
+I am currently a lecturer at Wuhan University of Science and Technology.
+
+I obtained my bachelor’s and doctoral degrees from the School of Computer Science, Wuhan University. During my master’s and doctoral studies, I was guided by Tieyun Qian (钱铁云).
 
 A data-driven personal website
 ======
