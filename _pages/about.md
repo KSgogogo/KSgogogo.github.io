@@ -19,31 +19,73 @@ Publications
 ======
 * **Adaption-of-thought: Learning question difficulty improves large language models for reasoning**.
 
-  Mayi Xu, Yongqi Li, **Ke Sun**, and Tieyun Qian. EMNLP2024 (CCF-B)
+  Mayi Xu, Yongqi Li, **Ke Sun**, and Tieyun Qian. E
 
-* City Matters! A Dual-Target Cross-City Sequential POI Recommendation Model. **Ke Sun**, Chenliang Li, and Tieyun Qian. TOIS2024 (CCF-A)
+  MNLP2024 (CCF-B)
 
-* Dynamic Open-book Prompt for Conversational Recommender System. Xuan Ma, Tieyun Qian, and **Ke Sun**. EMNLP2023 Findings (CCF-B)
+* **City Matters! A Dual-Target Cross-City Sequential POI Recommendation Model**.
 
-* Pre-training across different cities for next poi recommendation. **Ke Sun**, Tieyun Qian, Chenliang Li, Xuan Ma, Qing Li, Ming Zhong, Yuanyuan Zhu, and Mengchi Liu. TWEB2023 (CCF-B)
+  **Ke Sun**, Chenliang Li, and Tieyun Qian.
 
-* Cold-Start Multi-hop Reasoning by Hierarchical Guidance and Self-verification. Mayi Xu, **Ke Sun**, Yongqi Li, and Tieyun Qian. ECML2023 (CCF-B)
+  TOIS2024 (CCF-A)
 
-* Towards more effective encoders in pre-training for sequential recommendation. **Ke Sun**, Tieyun Qian, Ming Zhong, and Xuhui Li. WWWJ2023 (CCF-B)
+* **Dynamic Open-book Prompt for Conversational Recommender System**. Xuan Ma, Tieyun Qian, and **Ke Sun**. EMNLP2023 Findings (CCF-B)
 
-* Intent disentanglement and feature self-supervision for novel recommendation. Tieyun Qian, Yile Liang, Qing Li, Xuan Ma, **Ke Sun**, Zhiyong Peng. TKDE2022 (CCF-A)
+* **Pre-training across different cities for next poi recommendation**. **Ke Sun**, Tieyun Qian, Chenliang Li, Xuan Ma, Qing Li, Ming Zhong, Yuanyuan Zhu, and Mengchi Liu. TWEB2023 (CCF-B)
 
-* Enhancing graph convolution network for novel recommendation. Xuan Ma, Tieyun Qian, Yile Liang, **Ke Sun**, Hang Yun, and Mi Zhang. DASFAA2022 (CCF-B)
+* **Cold-Start Multi-hop Reasoning by Hierarchical Guidance and Self-verification**.
 
-* Context-aware seq2seq translation model for sequential recommendation. **Ke Sun**, Tieyun Qian, Xu Chen, Ming Zhong. INS2021 (CCF-B)
+  Mayi Xu, **Ke Sun**, Yongqi Li, and Tieyun Qian.
 
-* Where to go next: Modeling long-and short-term user preferences for point-of-interest recommendation. **Ke Sun**, Tieyun Qian, Tong Chen, Yile Liang, Quoc Viet Hung Nguyen, and Hongzhi Yin. AAAI2020 (CCF-A)
+  ECML2023 (CCF-B)
 
-* What Can History Tell Us? Identifying Relevant Sessions for Next-Item Recommendation. **Ke Sun**, Tieyun Qian, Hongzhi Yin, Tong Chen, Yiqi Chen, and Ling Chen. CIKM2019 (CCF-B)
+* **Towards more effective encoders in pre-training for sequential recommendation**.
 
-* "Bridge" Enhanced Signed Directed Network Embedding. Yiqi Chen, Tieyun Qian, Huan Liu, and **Ke Sun**. CIKM2018 (CCF-B)
+  **Ke Sun**, Tieyun Qian, Ming Zhong, and Xuhui Li.
 
-* Exploiting user and item attributes for sequential recommendation. **Ke Sun** and Tieyun qian. ICONIP2018 (CCF-C)
+  WWWJ2023 (CCF-B)
+
+* **Intent disentanglement and feature self-supervision for novel recommendation**.
+
+  Tieyun Qian, Yile Liang, Qing Li, Xuan Ma, **Ke Sun**, Zhiyong Peng.
+
+  TKDE2022 (CCF-A)
+
+* **Enhancing graph convolution network for novel recommendation**.
+
+  Xuan Ma, Tieyun Qian, Yile Liang, **Ke Sun**, Hang Yun, and Mi Zhang.
+
+  DASFAA2022 (CCF-B)
+
+* **Context-aware seq2seq translation model for sequential recommendation**.
+
+  **Ke Sun**, Tieyun Qian, Xu Chen, Ming Zhong.
+
+  INS2021 (CCF-B)
+
+* **Where to go next: Modeling long-and short-term user preferences for point-of-interest recommendation**.
+
+  **Ke Sun**, Tieyun Qian, Tong Chen, Yile Liang, Quoc Viet Hung Nguyen, and Hongzhi Yin.
+
+  AAAI2020 (CCF-A)
+
+* **What Can History Tell Us? Identifying Relevant Sessions for Next-Item Recommendation**.
+
+  **Ke Sun**, Tieyun Qian, Hongzhi Yin, Tong Chen, Yiqi Chen, and Ling Chen.
+
+  CIKM2019 (CCF-B)
+
+* **"Bridge" Enhanced Signed Directed Network Embedding**.
+
+  Yiqi Chen, Tieyun Qian, Huan Liu, and **Ke Sun**.
+
+  CIKM2018 (CCF-B)
+
+* **Exploiting user and item attributes for sequential recommendation**.
+
+  **Ke Sun** and Tieyun qian.
+
+  ICONIP2018 (CCF-C)
 
 Educations
 ======
