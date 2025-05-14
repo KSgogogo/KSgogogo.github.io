@@ -112,4 +112,4 @@ Awards
 
 Professional Services
 ======
-* Reviewer: ACL2025, IEEE TKDE, Journal of Supercomputing.
+* Reviewer: ACL2025, IEEE TKDE, Journal of Supercomputing, and Knowledge and Information Systems.
