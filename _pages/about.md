@@ -17,6 +17,18 @@ My research interests focus on recommender systems, with an emphasis on sequenti
 
 Publications
 ======
+* **Local and Global Exploration for Next New POI Recommendation**.
+  
+  **Ke Sun**, Liyu Zhou, Mayi Xu, Tieyun Qian.
+
+  TKDD2026 (CCF-B)
+
+* **Recursive Short-to-Long Generalization for Multi-hop Reasoning**.
+
+  Mayi Xu, **Ke Sun**, Jianhao Chen, Qiankun Pi, Guixin Su, Yunfeng Ning, Yongqi Li, Yuanyuan Zhu, Ming Zhong, Jiawei Jiang, Tieyun Qian.
+
+  SIGIR2026 (CCF-A)
+  
 * **Adaption-of-thought: Learning question difficulty improves large language models for reasoning**.
 
   Mayi Xu, Yongqi Li, **Ke Sun**, and Tieyun Qian.
