@@ -28,6 +28,12 @@ Publications
   Mayi Xu, **Ke Sun**, Jianhao Chen, Qiankun Pi, Guixin Su, Yunfeng Ning, Yongqi Li, Yuanyuan Zhu, Ming Zhong, Jiawei Jiang, Tieyun Qian.
 
   SIGIR2026 (CCF-A)
+
+* **Reasoning based on Symbolic and Parametric Knowledge Bases: A Survey**.
+
+  Mayi Xu, Yunfeng Ning, Yongqi Li, Jianhao Chen, Jintao Wen, Yao Xiao, Shen Zhou, Birong Pan, Zepeng Bao, Xin Miao, Hankun Kang, **Ke Sun**,Tieyun Qian.
+
+  IPM2026 (CCF-B)
   
 * **Adaption-of-thought: Learning question difficulty improves large language models for reasoning**.
 
@@ -124,4 +130,4 @@ Awards
 
 Professional Services
 ======
-* Reviewer: ACL2025, IEEE TKDE, Journal of Supercomputing, and Knowledge and Information Systems.
+* Reviewer: AAAI2026, ACL2025, IEEE TKDE, ACM TALLIP, Journal of Supercomputing, and Knowledge and Information Systems.
