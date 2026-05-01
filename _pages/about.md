@@ -19,19 +19,19 @@ Publications
 ======
 * **Local and Global Exploration for Next New POI Recommendation**.
   
-  **Ke Sun**, Liyu Zhou, Mayi Xu, Tieyun Qian.
+  **Ke Sun**, Liyu Zhou, Mayi Xu, and Tieyun Qian.
 
   TKDD2026 (CCF-B)
 
 * **Recursive Short-to-Long Generalization for Multi-hop Reasoning**.
 
-  Mayi Xu, **Ke Sun**, Jianhao Chen, Qiankun Pi, Guixin Su, Yunfeng Ning, Yongqi Li, Yuanyuan Zhu, Ming Zhong, Jiawei Jiang, Tieyun Qian.
+  Mayi Xu, **Ke Sun**, Jianhao Chen, Qiankun Pi, Guixin Su, Yunfeng Ning, Yongqi Li, Yuanyuan Zhu, Ming Zhong, Jiawei Jiang, and Tieyun Qian.
 
   SIGIR2026 (CCF-A)
 
 * **Reasoning based on Symbolic and Parametric Knowledge Bases: A Survey**.
 
-  Mayi Xu, Yunfeng Ning, Yongqi Li, Jianhao Chen, Jintao Wen, Yao Xiao, Shen Zhou, Birong Pan, Zepeng Bao, Xin Miao, Hankun Kang, **Ke Sun**,Tieyun Qian.
+  Mayi Xu, Yunfeng Ning, Yongqi Li, Jianhao Chen, Jintao Wen, Yao Xiao, Shen Zhou, Birong Pan, Zepeng Bao, Xin Miao, Hankun Kang, **Ke Sun**, and Tieyun Qian.
 
   IPM2026 (CCF-B)
   
